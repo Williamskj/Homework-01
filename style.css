@@ -50,15 +50,6 @@ a {
 p {
     font-size: 16px;
 }
-/*big image*/
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("https://github.com/Williamskj/first-day-repo/blob/a5bfdaa31f01d5ade61c7d3c3a94544e6bd17afd/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
-}
 
 .float-left {
     float: left;
